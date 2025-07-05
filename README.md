@@ -1,4 +1,4 @@
-- 👋 Hi, My Name is "Gauttam SK" & I am a Corporate Trainer ( AI Trainer).
+- 👋 Hi, My Name is "Gauttam SK" & I am a Corporate Trainer ( AI Trainer) & Author of "Java The Important Reference ".
 - 👀 I’m interested in AI (Artificial Intelligence ) and Programming.
 - 🌱 I’m currently providing training on AI and AI Tools, Python, Java, Spring Boot, and various programming in multiple companies & colleges.
 - 💞️ I’m looking to collaborate & solve people's problems using AI and  programming.
